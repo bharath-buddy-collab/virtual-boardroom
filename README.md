@@ -26,7 +26,7 @@ It transforms the anxiety of a blank spreadsheet into the confidence of a strate
 
 This system rejects the "monolithic LLM" approach. [cite_start]Instead, it implements a **Hierarchical Manager-Worker-Critic** pattern[cite: 2802]. This mimics a real corporate structure, ensuring that specialists do the work and leaders make the decisions.
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](https://raw.githubusercontent.com/bharath-buddy-collab/virtual-boardroom/main/architecture_diagram.png.jpeg)
 
 ### 1. The Orchestration Layer (The Manager)
 * **File:** `manager_agent.py`
