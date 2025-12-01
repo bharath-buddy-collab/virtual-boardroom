@@ -314,4 +314,4 @@ The Virtual Boardroom institutionalizes three executive guarantees:
 
 > It replaces intuition with intelligence, ambiguity with clarity, and stagnation with execution.
 
-**Your C‑Suite now fits in 100 MB and runs on Cloud Run.**
+**C‑Suite now fits in 100 MB and runs on Cloud Run.**
