@@ -15,14 +15,14 @@
 ## **The Operational Crisis Facing Small Business Leaders**
 
 Small business operators shoulder disproportionate responsibility with
-radically asymmetric resources.\
+radically asymmetric resources.
 They are simultaneously:
 
--   strategist\
--   analyst\
--   accountant\
--   marketer\
--   negotiator\
+-   strategist
+-   analyst
+-   accountant
+-   marketer
+-   negotiator
 -   executor
 
 All at once.
@@ -34,10 +34,10 @@ They face a draining cognitive paradox:
 
 They are inundated with:
 
--   ambiguous revenue signals\
--   volatile supply costs\
--   fragmented financial records\
--   noisy competitor information\
+-   ambiguous revenue signals
+-   volatile supply costs
+-   fragmented financial records
+-   noisy competitor information
 -   unpredictable market sentiment
 
 Yet time, expertise, and analytical rigor remain scarce.
@@ -46,14 +46,14 @@ Yet time, expertise, and analytical rigor remain scarce.
 
 Behind the operational pressure lives a quiet psychological struggle:
 
--   fear of miscalculating critical financial choices\
--   insecurity around pricing\
--   uncertainty about growth viability\
--   latent imposter syndrome\
+-   fear of miscalculating critical financial choices
+-   insecurity around pricing
+-   uncertainty about growth viability
+-   latent imposter syndrome
 -   paralysis caused by contradictory advice
 
 Strategic clarity is often viewed as a luxury reserved for corporations
-with CFOs, CMOs, and research teams.\
+with CFOs, CMOs, and research teams.
 So decisions default to instinct --- and **instinct is a fragile
 operating system**.
 
@@ -63,8 +63,8 @@ operating system**.
 
 **The Virtual Boardroom** is built as an institutional remedy.
 
-Not a chatbot.\
-Not a prompt wrapper.\
+Not a chatbot.
+Not a prompt wrapper.
 **But an operational intelligence layer** deployed as a three-tier
 executive stack:
 
@@ -72,33 +72,33 @@ executive stack:
 
 ## 1. 🧮 The Virtual CFO
 
-**Emotion Resolved:** Fear of numbers, uncertainty about survival\
+**Emotion Resolved:** Fear of numbers, uncertainty about survival
 **Core Function:** Deterministic Financial Analysis
 
 Capabilities:
 
--   real Python/Pandas computation\
--   profitability, burn rate, unit economics\
--   capital runway forecasting\
--   identifying inefficiencies and cost curves\
+-   real Python/Pandas computation
+-   profitability, burn rate, unit economics
+-   capital runway forecasting
+-   identifying inefficiencies and cost curves
 -   anchoring decisions to math instead of instinct
 
 > This agent transforms vague financial discomfort into quantifiable
-> truth --- offering what founders rarely have:\
+> truth --- offering what founders rarely have:
 > **Numerical certainty.**
 
 ------------------------------------------------------------------------
 
 ## 2. 🌍 The Virtual CMO
 
-**Emotion Resolved:** Fear of obscurity, competitive confusion\
+**Emotion Resolved:** Fear of obscurity, competitive confusion
 **Core Function:** Hyper-Local Market Intelligence
 
 Capabilities:
 
--   interprets market signals by geography, currency & demographics\
--   benchmarks competitors\
--   generates personalized positioning strategy\
+-   interprets market signals by geography, currency & demographics
+-   benchmarks competitors
+-   generates personalized positioning strategy
 -   identifies channels with disproportionate ROI
 
 > It replaces guesswork with contextual, data-anchored differentiation.
@@ -107,13 +107,13 @@ Capabilities:
 
 ## 3. 🏛️ The Executive Synthesizer (CEO)
 
-**Emotion Resolved:** Overwhelm from too many options\
+**Emotion Resolved:** Overwhelm from too many options
 **Core Function:** Strategic Compression
 
 Capabilities:
 
--   consolidates financial & market intelligence\
--   strips noise, contradiction, and decision fatigue\
+-   consolidates financial & market intelligence
+-   strips noise, contradiction, and decision fatigue
 -   delivers a 3-point execution directive
 
 > It converts awareness into action and possibility into plan.
@@ -125,8 +125,8 @@ Capabilities:
 When decisions are validated by numbers, trends contextualized, and
 strategy pressure-tested:
 
--   ❌ insecurity becomes conviction\
--   ❌ doubt becomes discipline\
+-   ❌ insecurity becomes conviction
+-   ❌ doubt becomes discipline
 -   ❌ reaction becomes proactive design
 
 **The Virtual Boardroom** gives small business operators the rarest
@@ -134,7 +134,7 @@ resource of all:
 
 > **Clarity under uncertainty.**
 
-It delivers the analytical muscle of enterprise executive teams ---\
+It delivers the analytical muscle of enterprise executive teams ---
 engineered to run on a laptop, in a browser, or on Cloud Run at global
 scale.
 
@@ -142,16 +142,16 @@ scale.
 
 # 🎯 The Founding Thesis
 
-Running a business isn't a test of intuition.\
+Running a business isn't a test of intuition.
 It is **applied reasoning**.
 
 Most founders never receive the structural support needed to architect
-decisions methodically.\
+decisions methodically.
 This system rebalances that inequality by embedding analytical
 governance directly into the operating stack.
 
 > What Fortune-100 executive teams are paid to do at the top of industry
-> ---\
+> ---
 > is now **distributed, autonomous, and accessible.**
 
 ------------------------------------------------------------------------
@@ -167,7 +167,7 @@ governance directly into the operating stack.
 
 At its core, the system implements a **Manager → Specialists → Strategic Synthesizer** hierarchy. Each agent operates with authority‑specific tools, structured reasoning, and transparent governance boundaries.
 
-![Virtual Boardroom Architecture](https://raw.githubusercontent.com/bharath-buddy-collab/virtual-boardroom/main/architecture_diagram.png)
+![Virtual Boardroom Architecture](https://github.com/bharath-buddy-collab/virtual-boardroom/blob/bf73655cee7919fb85cefa20fe6a74ddeb8b1216/architecture_diagram.png.jpeg)
 
 ## 1. Manager Layer (Orchestration Logic)
 **File:** `manager_agent.py`  
