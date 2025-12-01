@@ -1,0 +1,13 @@
+# Secrets - NEVER commit these
+.env
+service_account.json
+*.json
+
+# Data - Protect your financial info
+*.csv
+
+# Python & OS junk
+__pycache__/
+*.pyc
+venv/
+.DS_Store

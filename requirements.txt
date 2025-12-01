@@ -1,0 +1,13 @@
+# --- Google Cloud AI ---
+google-cloud-aiplatform>=1.70.0
+
+# --- User Interface ---
+streamlit==1.38.0
+watchdog==4.0.0
+
+# --- Data Processing ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Utilities ---
+python-dotenv==1.0.1

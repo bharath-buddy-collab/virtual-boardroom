@@ -1,0 +1,11 @@
+# Secrets - Keep these out of the image!
+.env
+service_account.json
+*.json
+
+# Local environments and logs
+venv/
+__pycache__/
+logs/
+.git/
+.gitignore
